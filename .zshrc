@@ -1,4 +1,4 @@
-PS1='%d $ '
+PS1='%~ $ '
 
 # Aliases
 alias history="history 0"
