@@ -2,5 +2,7 @@
     "editor.formatOnSave": true,
     "files.autoSave": "onFocusChange",
     "editor.fontSize": 18,
-    "files.trimTrailingWhitespace": true
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "notebook.insertFinalNewline": true
 }
