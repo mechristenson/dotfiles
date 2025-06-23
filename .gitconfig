@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+	email = <email>
+	name = <name
+[alias]
+    resetmain = !"git fetch origin && git reset --hard origin/main"
+# Please adapt and uncomment the following lines:
+#	name = Mark Christenson
+#	email = mark.evan.christenson@gmail.com
